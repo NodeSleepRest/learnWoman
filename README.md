@@ -1,2 +1,4 @@
-Accord.Net�̗͂��؂�A�����w�K���o��v���O����������Ă݂܂����B
-�I���W�i���e�B�͊F���̋C������B
+Accord.Netの力を借り、数字学習＆出題プログラムを作ってみました。
+オリジナリティは皆無の気がする。
+
+説明
